@@ -1,16 +1,14 @@
 # learn1
 
-A new Flutter project.
+## [编写您的第一个 Flutter App](https://flutterchina.club/get-started/codelab/) 
 
-## Getting Started
+1. 第1步: 创建 Flutter app
+1. 第2步: 使用外部包(package)
+1. 第3步: 添加一个 有状态的部件（Stateful widget）
+1. 第4步: 创建一个无限滚动ListView
+1. 第5步: 添加交互
+1. 第6步: 导航到新页面
+1. 第7步：使用主题更改UI
+1. 做的好!
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![](https://flutterchina.club/get-started/codelab/images/startup-namer-app.gif)
